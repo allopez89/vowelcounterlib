@@ -1,6 +1,6 @@
 name: vowel_counter_lib
 description: Small library for counting vowels in a string.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/allopez89/vowelcounterlib.git
 
 environment:
